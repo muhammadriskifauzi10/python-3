@@ -7,6 +7,6 @@ img = cv.imread('assets/images/img1.jpg', cv.COLOR_BGR2GRAY)
 
 img_r = cv.resize(img, (570, 720))
 
-cv.imshow('Display', des1)
+cv.imshow('Display', img_r)
 
 cv.waitKey(0)
