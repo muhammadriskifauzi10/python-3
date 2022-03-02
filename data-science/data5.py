@@ -16,9 +16,9 @@ ds = pd.DataFrame(dt)
 # Matplotlib
 x = np.array(ds['col1'])
 y = np.array(ds['col2'])
-# End matplotlib
 
 plt.plot(x,y)
 plt.show()
+# End matplotlib
 
 print(ds)
