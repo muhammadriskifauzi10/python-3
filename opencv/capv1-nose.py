@@ -1,5 +1,4 @@
 import os
-from pickle import FALSE
 import cv2 as cv
 
 os.system('cls')

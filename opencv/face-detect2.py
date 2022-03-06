@@ -1,4 +1,3 @@
-from operator import le
 import os
 import cv2 as cv
 
